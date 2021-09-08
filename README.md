@@ -1,2 +1,2 @@
-# modal-sample
+# Simple Modal
 Created with CodeSandbox
